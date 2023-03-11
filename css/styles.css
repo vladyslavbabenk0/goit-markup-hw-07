@@ -33,9 +33,7 @@ body {
     clip-path: inset(50%);
     margin: -1px;
 }
-h1,
-h2,
-h3,
+h1,h2,h3,
 p {
     margin: 0;
 }

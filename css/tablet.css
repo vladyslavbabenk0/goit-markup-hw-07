@@ -44,9 +44,7 @@
     position: relative;
     color: var(--color-hover);
 }
-/* .mobile-site-nav.current {
-    color:  #404BBF;
-} */
+
 .address {
     display: flex;
     font-style: normal;
